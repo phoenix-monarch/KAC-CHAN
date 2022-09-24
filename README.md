@@ -15,7 +15,7 @@ Yo! I am Hritvik, Age 18 years, A Web Developer, From Mumbai And Not A Weeb. I l
 
 ### My Projects 🍄
 
-🤖 [Suguha Kirigaya](https://t.me/SuguhaRobot) - *A Powerful Group Management Bot* </br>
+🤖 [Himiko Toga](https://t.me/Toga_Robot) - *A Powerful Group Management Bot* </br>
 
 #### Peoples Who Inspires Me 🥰
 [ No One ]
