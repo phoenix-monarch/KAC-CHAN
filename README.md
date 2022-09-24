@@ -26,7 +26,7 @@ Yo! I am Hritvik, Age 18 years, From Mumbai And Not A Weeb. I love Watching Anim
 [ No One ]
 
 ## My GitHub Stats 🐿️
-![KAC CHAN's Git Stats](https://github-readme-stats.vercel.app/api?username=RimuruDemonlord&include_all_commits=true&count_private=true&theme=highcontrast)
+![KAC CHAN's Git Stats](https://github-readme-stats.vercel.app/api?username=kac-chan&include_all_commits=true&count_private=true&theme=highcontrast)
 
 ![KAC CHAN's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=KAC-CHAN&theme=tokyonight)
 ![KAC CHAN's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAC-CHAN&theme=tokyonight&layout=compact&langs_count=6)
