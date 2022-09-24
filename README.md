@@ -8,15 +8,14 @@ Yo! I am Hritvik, Age 18 years, From Mumbai And Not A Weeb. I love Watching Anim
 <p align="center">
   <a href="https://t.me/izuya"><img src="https://telegra.ph/file/681ce0be1c844af41dd1e.jpg" alt="izuya"></a>
   
-  
-  
+  <a href="https://github.com/KAC-CHAN">
+    <img src="https://img.shields.io/github/followers/h0daka?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
+  </a>
   <a href="https://telegram.me/izuya">
     <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
   </a>  
  </a>
-  <a href="https://github.com/KAC-CHAN">
-    <img src="https://img.shields.io/github/followers/h0daka?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
-  </a>
+  
 
 ### Something About Me
 
