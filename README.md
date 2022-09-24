@@ -4,6 +4,20 @@
 Yo! I am Hritvik, Age 18 years, From Mumbai And Not A Weeb. I love Watching Anime Movies.
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
+</p>
+<p align="center">
+  <a href="https://t.me/izuya"><img src="https://telegra.ph/file/36a24eae210e45dbfd158.jpg" alt="izuya"></a>
+  
+  
+  
+  <a href="https://telegram.me/izuya">
+    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
+  </a>  
+ </a>
+  <a href="https://github.com/KAC-CHAN">
+    <img src="https://img.shields.io/github/followers/h0daka?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
+  </a>
+
 ### Something About Me
 
 🫂 Meeting New Enemies, Learning New Things And Watching Hentai Are My Hobbies </br>
