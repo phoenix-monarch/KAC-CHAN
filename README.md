@@ -22,8 +22,6 @@ Yo! I am Hritvik, Age 18 years, From Mumbai And Not A Weeb. I love Watching Anim
 
 🫂 Meeting New Enemies, Learning New Things And Watching Hentai Are My Hobbies </br>
 </br>
-☎️ Contact Me Here -: </br>
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/izuya) <a href="kacxxchan@gmail.com"><img src="https://img.shields.io/badge/Gmail-black.svg?style=for-the-badge&logo=gmail"></a>
 
 #### Peoples Who Inspires Me 🥰
 [ No One ]
