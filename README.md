@@ -14,9 +14,7 @@ Yo! I am Hritvik, Age 18 years, From Mumbai And Not A Weeb. I love Watching Anim
     <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
   </a>  
  </a>
-  <a href="https://github.com/KAC-CHAN">
-    <img src="https://img.shields.io/github/followers/h0daka?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
-  </a>
+  <a href="kacxxchan@gmail.com"><img src="https://img.shields.io/badge/Gmail-black.svg?style=for-the-badge&logo=gmail"></a>
 
 ### Something About Me
 
