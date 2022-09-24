@@ -1,4 +1,4 @@
-## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px"> Oi, Oi, Oi ✷⁠‿⁠✷ [Hritvik's Here !](https://github.com/KAC-CHAN) !!!
+## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px"> Oi, Oi, Oi ✷⁠‿⁠✷ [Hritvik's Here](https://github.com/KAC-CHAN) !!!
 > A Sᴛᴜᴅᴇɴᴛ Wᴀɴᴛᴇᴅ Tᴏ Bᴇᴄᴀᴍᴇ A Pʀᴏɢʀᴀᴍᴍᴇʀ 
 
 ⚝ Yᴏ! I Aᴍ Hʀɪᴛᴠɪᴋ, Aɢᴇ 18 Yᴇᴀʀꜱ, Fʀᴏᴍ Mᴜᴍʙᴀɪ Aɴᴅ Nᴏᴛ A Wᴇᴇʙ. I Lᴏᴠᴇ Wᴀᴛᴄʜɪɴɢ Aɴɪᴍᴇ Mᴏᴠɪᴇꜱ.🪄
