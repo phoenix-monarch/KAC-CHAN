@@ -6,7 +6,7 @@ Yo! I am Hritvik, Age 18 years, From Mumbai And Not A Weeb. I love Watching Anim
 
 </p>
 <p align="center">
-  <a href="https://t.me/izuya"><img src="https://telegra.ph/file/36a24eae210e45dbfd158.jpg" alt="izuya"></a>
+  <a href="https://t.me/izuya"><img src="https://telegra.ph/file/681ce0be1c844af41dd1e.jpg" alt="izuya"></a>
   
   
   
