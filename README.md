@@ -25,7 +25,6 @@
 #### Pᴇᴏᴘʟᴇꜱ Wʜᴏ Iɴꜱᴘɪʀᴇꜱ Mᴇ 🥰
 ⚝ [ Nᴏ Oɴᴇ ]
 
-## Mʏ Gɪᴛʜᴜʙ Sᴛᴀᴛꜱ 🐿️
 ![KAC CHAN's Git Stats](https://github-readme-stats.vercel.app/api?username=kac-chan&include_all_commits=true&count_private=true&theme=highcontrast)
 
 ![KAC CHAN's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=KAC-CHAN&theme=tokyonight)
