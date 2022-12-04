@@ -13,6 +13,17 @@
   <a href="https://t.me/pervertsenpai"><img src="https://telegra.ph/file/681ce0be1c844af41dd1e.jpg" alt="pervertsenpai"></a>
   
   
+  #
+#
+#
+#
+##
+#
+#
+#
+#
+#
+
   
   
   
@@ -21,9 +32,8 @@
   
   
   
-  
-                                                                                                         <a href="https://github.com/KAC-CHAN">
-                                                     <img src="https://img.shields.io/github/followers/h0daka?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
+  <a href="https://github.com/KAC-CHAN">
+   <img src="https://img.shields.io/github/followers/h0daka?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
   </a>
   <a href="https://telegram.me/izuya">
     <img src="https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram"/>
