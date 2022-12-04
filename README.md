@@ -1,12 +1,11 @@
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px"> Oi, Oi, Oi ✷⁠‿⁠✷ [KAC's Here](https://github.com/KAC-CHAN) !!!
-> A Sᴛᴜᴅᴇɴᴛ Wᴀɴᴛᴇᴅ Tᴏ Bᴇᴄᴀᴍᴇ A Pʀᴏɢʀᴀᴍᴍᴇʀ 
 
-⚝ Yᴏ! I Aᴍ Hʀɪᴛᴠɪᴋ, Aɢᴇ 18 Yᴇᴀʀꜱ, Fʀᴏᴍ Mᴜᴍʙᴀɪ Aɴᴅ Nᴏᴛ A Wᴇᴇʙ. I Lᴏᴠᴇ Wᴀᴛᴄʜɪɴɢ Aɴɪᴍᴇ Mᴏᴠɪᴇꜱ.🪄
+⚝ Yᴏ! I Aᴍ Hʀɪᴛᴠɪᴋ,  Nᴏᴛ A Wᴇᴇʙ🪄.
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
 </p>
 <p align="center">
-  <a href="https://t.me/izuya"><img src="https://telegra.ph/file/681ce0be1c844af41dd1e.jpg" alt="izuya"></a>
+  <a href="https://t.me/pervertsenpai"><img src="https://telegra.ph/file/681ce0be1c844af41dd1e.jpg" alt="pervertsenpai"></a>
   
   <a href="https://github.com/KAC-CHAN">
     <img src="https://img.shields.io/github/followers/h0daka?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
@@ -17,18 +16,12 @@
  </a>
   
 
-### Sᴏᴍᴇᴛʜɪɴɢ Aʙᴏᴜᴛ Mᴇ 🐇
-
-⚝ 🫂 Mᴇᴇᴛɪɴɢ Nᴇᴡ Eɴᴇᴍɪᴇꜱ, Lᴇᴀʀɴɪɴɢ Nᴇᴡ Tʜɪɴɢꜱ Aɴᴅ Wᴀᴛᴄʜɪɴɢ Hᴇɴᴛᴀɪ Aʀᴇ Mʏ Hᴏʙʙɪᴇꜱ </br>
-</br>
-
-#### Pᴇᴏᴘʟᴇꜱ Wʜᴏ Iɴꜱᴘɪʀᴇꜱ Mᴇ 🥰
-⚝ [ Nᴏ Oɴᴇ ]
+### Nothing 🐇
 
 ![KAC CHAN's Git Stats](https://github-readme-stats.vercel.app/api?username=kac-chan&include_all_commits=true&count_private=true&theme=highcontrast)
 
 ![KAC CHAN's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=KAC-CHAN&theme=tokyonight)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KAC-CHAN&label=Profile%20Views&color=orange&style=flat-square" alt="Pervert-Senpai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KAC-CHAN&label=Profile%20Views&color=orange&style=flat-square" alt="izuya-san" /> </p>
 
 
 ## FᴀV Aɴɪᴍᴇ 💥
